@@ -27,10 +27,8 @@ Editar
 pip install requests
 Execute o script:
 
-bash
-Copiar
-Editar
 python nome_do_arquivo.py
+
 Digite o número do CNPJ (14 dígitos, apenas números) quando solicitado.
 
 Veja os dados da empresa retornados pela API.
@@ -38,10 +36,8 @@ Veja os dados da empresa retornados pela API.
 Escolha se deseja realizar uma nova consulta ou sair.
 
 Exemplo de uso
-markdown
-Copiar
-Editar
-Digite o número do CNPJ para a consulta: 12345678000195
+
+### Digite o número do CNPJ para a consulta: 12345678000195
 ==> CNPJ Encontrado <==
 Nome: Empresa Exemplo Ltda
 CNPJ: 12345678000195
