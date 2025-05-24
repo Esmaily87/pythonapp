@@ -1,6 +1,6 @@
 # Consulta de CNPJ via API CNPJa
 
-Este script em Python realiza consultas de dados de empresas brasileiras através do número do **CNPJ** utilizando a API pública da [CNPJa](https://cnpja.com.br/).
+Este script em Python realiza consultas de dados de empresas brasileiras através do número do **CNPJ** utilizando a API pública da [CNPJa] (https://cnpja.com.br/).
 
 ---
 
@@ -19,7 +19,8 @@ Este script em Python realiza consultas de dados de empresas brasileiras atravé
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-nstale as dependências (requer requests):
+
+Instale as dependências (requer requests):
 
 pip install requests
 Execute o script:
