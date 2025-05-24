@@ -21,9 +21,6 @@ Este script em Python realiza consultas de dados de empresas brasileiras atravé
    git clone https://github.com/seu-usuario/seu-repositorio.git
 nstale as dependências (requer requests):
 
-bash
-Copiar
-Editar
 pip install requests
 Execute o script:
 
@@ -34,20 +31,3 @@ Digite o número do CNPJ (14 dígitos, apenas números) quando solicitado.
 Veja os dados da empresa retornados pela API.
 
 Escolha se deseja realizar uma nova consulta ou sair.
-
-Exemplo de uso
-
-### Digite o número do CNPJ para a consulta: 12345678000195
-==> CNPJ Encontrado <==
-Nome: Empresa Exemplo Ltda
-CNPJ: 12345678000195
-Natureza legal: Sociedade Empresária Limitada
----------------------------------
-Deseja realizar uma nova consulta ?
-1. Sim
-2. Sair
-Requisitos
-Python 3.x
-
-Biblioteca requests (instalável via pip)
-
